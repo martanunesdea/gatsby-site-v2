@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-I'm a full time software engineer with a background in medical technology. My interests include data security, IoT architecture and climate technology.
+I'm a full time software engineer with a background in medical technology. My interests include digital signal processing, data security and data management.
