@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Mobile gaming revolution is on
+title: What is embedded software, really?
 slug: /plant/bud
 date: 2020-05-13 12:37
 description: dfdfdfsf

@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: Learning Javascript as a C developer
 template: blog-post
 date: 2020-05-13 09:19
 slug: /typography

@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Marta Nunes de Abreu
 tagline: Software Engineer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/index.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about

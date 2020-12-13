@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Marta Nunes de Abreu",
     "titleTemplate": "%s",
     "description": "A personal blog and portfolio, Built with Gatsby and Netlify CMS. Made with ❤ ",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "siteUrl": "https://martanunesdeabreu.netlify.app",
+    "image": "/assets/index.jpeg",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
