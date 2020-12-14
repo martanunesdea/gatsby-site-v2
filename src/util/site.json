@@ -5,7 +5,7 @@
     "description": "A personal blog and portfolio, Built with Gatsby and Netlify CMS. Made with ❤ ",
     "siteUrl": "https://martanunesdeabreu.netlify.app",
     "image": "/assets/index.jpeg",
-    "iconimage": "/assets/stackrole.png",
+    "iconimage": "/assets/icon.png",
     "twitterUsername": "@stackrole"
   },
   "ga": "UA-XXXXXXXXX-X"

@@ -32,14 +32,7 @@ export default function BlogListHome() {
                   date(formatString: "MMMM DD, YYYY")
                   slug
                   title
-                  featuredImage {
-                    childImageSharp {
-                      fluid(maxWidth: 540, maxHeight: 360, quality: 80) {
-                        ...GatsbyImageSharpFluid
-                        ...GatsbyImageSharpFluidLimitPresentationSize
-                      }
-                    }
-                  }
+                  tags
                 }
               }
             }

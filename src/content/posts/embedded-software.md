@@ -2,7 +2,7 @@
 template: blog-post
 title: What is embedded software, really?
 slug: /embedded-software
-tags: c
+tags: Embedded Software
 date: 2020-05-13 12:37
 description: dfdfdfsf
 featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg

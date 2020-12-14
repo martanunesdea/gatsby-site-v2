@@ -1,9 +1,9 @@
 ---
 template: blog-post
 slug: /markdown
-tags: markdown
+tags: Embedded Software
 date: 2020-05-09T05:53:16.102Z
-title: "Markdown: Syntax"
+title: "Prototyping with ESP32"
 featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
 ---
 
