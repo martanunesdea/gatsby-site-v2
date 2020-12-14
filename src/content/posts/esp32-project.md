@@ -2,7 +2,7 @@
 template: blog-post
 title: Learning Python as a C developer
 slug: /book-shelf
-tags: python
+tags: c
 date: 2019-07-10T00:00:00.000Z
 description: sdasd
 featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg

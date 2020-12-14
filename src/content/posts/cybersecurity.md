@@ -2,7 +2,7 @@
 title: Learning Javascript as a C developer
 template: blog-post
 date: 2020-12-13 09:19
-tags: Javascript
+tags: c
 slug: /web-dev/start
 description: Stepping into web development
 ---

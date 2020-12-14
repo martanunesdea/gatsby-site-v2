@@ -179,6 +179,17 @@
 		margin: 0;
 		font-size: 12px;
 		color: rgba(0,0,0,0.5);
+		display: inline-block;
+	}
+	.tags {
+		margin: 0;
+		margin-left: 10px;
+		padding: 1px 10px;
+		font-size: 12px;
+		color: black;
+		display: inline-block;
+		background: #E5C3D3;
+		border-radius: 5px;	
 	}
 	.post-content {
 		margin-top: 16px;
