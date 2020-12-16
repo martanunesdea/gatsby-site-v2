@@ -3,8 +3,8 @@ template: blog-post
 title: What is embedded software, really?
 slug: /embedded-software
 tags: Embedded Software
-date: 2020-05-13 12:37
-description: dfdfdfsf
+date: 2020-12-02 12:37
+description: Explaining the critical applications of Embedded Software
 featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
 ---
 Nowadays, a vast majority of end-products from software development are consumed through mobile devices and computers (e-commerce, social media, streaming sites, miscellaneous mobile apps, etc.). It’s easy to understand the strange reactions from people when I tell them about my job as an embedded software engineer. I once had someone asking me if that is the same as “making models”. Mostly, though, the blunt question I get is “what is that?”.
