@@ -17,7 +17,7 @@ I’ll be splitting this article into a brief explanation of embedded software, 
 
 # Firmware: Where hardware and software meet
 
-I tend to use the word “embedded software” to sound a bit less geeky, and perhaps in the hopes that people will deduce what it is (ie. software embedded in the machine). However, the reality is, this term is interchangeable with firmware. Firmware is the software purposefully designed and implemented to interact with a certain type of hardware.
+Firmware is the software purposefully designed and implemented to interact with a specific hardware design.
 
 A simple example: A smart speaker.
 
