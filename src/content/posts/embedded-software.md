@@ -3,7 +3,7 @@ template: blog-post
 title: What is embedded software, really?
 slug: /embedded-software
 tags: Embedded Software
-date: 2020-12-02 12:37
+date: 2010-12-02 10:10
 description: Explaining the critical applications of Embedded Software
 featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
 ---

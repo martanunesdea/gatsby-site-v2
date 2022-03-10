@@ -3,7 +3,7 @@ template: blog-post
 title: Git notes
 slug: /git-notes
 tags: Tools
-date: 2021-10-12 12:37
+date: 2019-10-12 12:37
 description: This is a summary of git commands I've used
 ---
 ## Branching

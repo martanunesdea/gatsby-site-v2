@@ -3,7 +3,7 @@ template: blog-post
 title: Getting BLE to work - Connecting
 slug: /ble-connecting
 tags: Bluetooth
-date: 2021-04-09 20:37
+date: 2021-04-09 12:00
 description: Getting BLE to connect
 ---
 Bluetooth can be a multi-client network but the simplest network only requires two devices: a host and a client. Normally, the host is the device providing the information and the client is the one requesting it. 

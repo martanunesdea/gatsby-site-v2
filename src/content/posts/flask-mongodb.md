@@ -3,7 +3,7 @@ template: blog-post
 title: Flask and MongoDB
 slug: /flask-mongo
 tags: Web development
-date: 2021-10-12 12:37
+date: 2021-02-12 12:00
 description: Connecting MongoDB to a Flask website
 ---
 ## Adding a DB to Flask

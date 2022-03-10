@@ -3,7 +3,7 @@ template: blog-post
 title: Getting into programming - Episode 1
 slug: /intro-python-1
 tags: Python
-date: 2020-12-31 12:47
+date: 2019-09-15 12:00
 description: Learning Python
 ---
 This article forms part of a tutorial series to learn technology and software through Python. 

@@ -2,7 +2,7 @@
 template: blog-post
 title: Setting up a website with EleventyJS
 slug: /eleventy-start
-tags: Javascript
+tags: Web development
 date: 2021-12-12 20:37
 description: This is a post on My Blog about agile frameworks.
 ---

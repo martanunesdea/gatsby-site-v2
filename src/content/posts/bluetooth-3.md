@@ -3,7 +3,7 @@ template: blog-post
 title: Getting BLE to work - Sharing
 slug: /ble-sharing
 tags: Bluetooth
-date: 2021-06-05 20:37
+date: 2021-05-05 12:00
 description: Getting BLE to share
 ---
 

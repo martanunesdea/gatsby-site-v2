@@ -1,8 +1,8 @@
 {
-  "name": "@stackrole/gatsby-starter-foundation",
-  "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+  "name": "Marta Nunes de Abreu",
+  "description": "site dedicated to sharing content about embedded software and best practices in the industry",
   "version": "1.0.0",
-  "author": "Stackrole <stackrole@gmail.com>",
+  "author": "Marta",
   "license": "MIT",
   "repository": {
     "type": "git",
