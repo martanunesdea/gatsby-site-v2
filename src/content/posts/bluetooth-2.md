@@ -2,7 +2,7 @@
 template: blog-post
 title: Getting BLE to work - Connecting
 slug: /ble-connecting
-tags: Bluetooth
+tags: Comms
 date: 2021-04-09 12:00
 description: Getting BLE to connect
 ---

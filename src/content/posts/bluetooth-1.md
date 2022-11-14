@@ -2,7 +2,7 @@
 template: blog-post
 title: A short summary on Bluetooth
 slug: /short-summary-bluetooth
-tags: Bluetooth
+tags: Comms
 date: 2021-03-21 12:00
 description: Brief overview on Bluetooth
 ---

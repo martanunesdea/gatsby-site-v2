@@ -2,7 +2,7 @@
 template: blog-post
 title: Speech processing with ESP32
 slug: /esp-32-project
-tags: Embedded Software
+tags: Embedded
 date: 2020-08-20 18:37
 description: Simple tutorial to get started with ESP32 and audio processing
 featuredImage: /assets/screen-post-hixmjh9xhoo-unsplash.jpg
