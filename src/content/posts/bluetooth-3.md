@@ -2,7 +2,7 @@
 template: blog-post
 title: Getting BLE to work - Sharing
 slug: /ble-sharing
-tags: Comms, Embedded
+tags: [Comms, Embedded]
 date: 2021-05-05 12:00
 description: Getting BLE to share
 ---
